@@ -1,0 +1,284 @@
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 882px;
+height: 720px;
+left: 424px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 44px;
+
+
+/* Bizway - Welcome to the New Era of Business */
+
+
+position: absolute;
+width: 364px;
+height: 70px;
+left: 34px;
+top: 109px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+/* or 146% */
+
+letter-spacing: 0.08em;
+
+color: #2D2D2D;
+
+
+
+/* Abstraction */
+
+
+position: absolute;
+left: 1.06%;
+right: 64.23%;
+top: 37.19%;
+bottom: -3.63%;
+
+background: url(Abstraction.png);
+transform: rotate(-7.38deg);
+
+
+/* objects 1 */
+
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 34px;
+top: 35px;
+
+background: url(objects.png);
+
+
+/* Welcome Aboard! */
+
+
+position: absolute;
+width: 302px;
+height: 35px;
+left: 641px;
+top: 109px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height, or 146% */
+
+letter-spacing: 0.28em;
+
+color: #2D2D2D;
+
+
+
+/* signup/google */
+
+
+position: absolute;
+width: 209px;
+height: 45px;
+left: 641px;
+top: 189px;
+
+
+
+/* signup/facebook */
+
+
+position: absolute;
+width: 209px;
+height: 45px;
+left: 894px;
+top: 189px;
+
+
+
+/* -OR- */
+
+
+position: absolute;
+width: 48px;
+height: 35px;
+left: 847px;
+top: 275px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 35px;
+/* identical to box height, or 194% */
+
+letter-spacing: 0.08em;
+
+color: #868686;
+
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 462px;
+height: 10px;
+left: 641px;
+top: 380.48px;
+
+border: 0.4px solid #868686;
+
+
+/* Line 2 */
+
+
+position: absolute;
+width: 462px;
+height: 0px;
+left: 641px;
+top: 436.48px;
+
+border: 0.4px solid #868686;
+
+
+/* Line 3 */
+
+
+position: absolute;
+width: 462px;
+height: 0px;
+left: 641px;
+top: 491.48px;
+
+border: 0.4px solid #868686;
+
+
+/* eye 1 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1076px;
+top: 466px;
+
+background: url(eye.png);
+
+
+/* eye 2 */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1076px;
+top: 521px;
+
+background: url(eye.png);
+
+
+/* Line 4 */
+
+
+position: absolute;
+width: 462px;
+height: 0px;
+left: 641px;
+top: 546.48px;
+
+border: 0.4px solid #868686;
+
+
+/* Full Name */
+
+
+position: absolute;
+width: 78px;
+height: 45px;
+left: 641px;
+top: 349px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 35px;
+/* or 250% */
+
+letter-spacing: 0.08em;
+
+color: #868686;
+
+
+
+/* Email Address */
+
+
+position: absolute;
+width: 111px;
+height: 35px;
+left: 641px;
+top: 405px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 35px;
+/* identical to box height, or 250% */
+
+letter-spacing: 0.08em;
+
+color: #868686;
+
+
+
+/* Password */
+
+
+position: absolute;
+width: 73px;
+height: 35px;
+left: 641px;
+top: 460px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 35px;
+/* identical to box height, or 250% */
+
+letter-spacing: 0.08em;
+
+color: #868686;
+
+
+
+/* Confirm Password */
+
+
+position: absolute;
+width: 141px;
+height: 35px;
+left: 641px;
+top: 515px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 35px;
+/* identical to box height, or 250% */
+
+letter-spacing: 0.08em;
+
+color: #868686;
+
