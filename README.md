@@ -21,7 +21,7 @@ After you have installed Node.js and npm, follow the steps below to install and 
 3. Once you're in the `server` directory, install the necessary dependencies by typing:
 
     ```
-    npm install
+    npm install express
     ```
 
 4. After the dependencies are installed, you can run the server by typing:
