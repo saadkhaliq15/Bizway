@@ -4,7 +4,7 @@ Welcome to Bizway - a Digital Marketing Web app that's reshaping businesses with
 
 ## Installation
 
-Before you can run Bizway, you will need to install Node.js and npm on your computer. Node.js is a JavaScript runtime that allows you to run JavaScript on your server. npm is a package manager for Node.js.
+Before you can run Bizway, you will need to install Node.js and npm on your computer.
 
 After you have installed Node.js and npm, follow the steps below to install and run Bizway:
 
