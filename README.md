@@ -1,34 +1,60 @@
 # Bizway
 
-Welcome to the New Era of Business. A Digital Marketing Web app that's Reshaping Businesses with its AI-powered Digital Marketing Automation. Effortlessly manage branding, content creation, publishing, analytics, recommendations, and smart campaigning, all on Autopilot.
+Welcome to Bizway - a Digital Marketing Web app that's reshaping businesses with its AI-powered digital marketing automation. Effortlessly manage branding, content creation, publishing, analytics, recommendations, and smart campaigning, all on autopilot.
 
 ## Installation
 
-### Backend
+Before you can run Bizway, you will need to install Node.js and npm on your computer. Node.js is a JavaScript runtime that allows you to run JavaScript on your server. npm is a package manager for Node.js.
 
-Navigate to the `server` directory and run the following command to install dependencies:
+After you have installed Node.js and npm, follow the steps below to install and run Bizway:
 
-npm install
+### Install and run the backend server
 
+1. Open a terminal or command prompt.
 
-To start the server, run:
+2. Navigate to the `server` directory of Bizway. You can do this with the `cd` command. For example, if Bizway is in your `Documents` folder, you would type:
 
-node server.js
+    ```
+    cd Documents/Bizway/server
+    ```
 
+3. Once you're in the `server` directory, install the necessary dependencies by typing:
 
-### Frontend
+    ```
+    npm install
+    ```
 
-Navigate to the `client` directory and run the following command to install dependencies:
+4. After the dependencies are installed, you can run the server by typing:
 
-npm install
+    ```
+    node server.js
+    ```
 
-To start the React application, run:
+### Install and run the frontend client
 
-npm start
+1. Open a new terminal or command prompt.
+
+2. Navigate to the `client` directory of Bizway. You can do this with the `cd` command. For example, if Bizway is in your `Documents` folder, you would type:
+
+    ```
+    cd Documents/Bizway/client
+    ```
+
+3. Once you're in the `client` directory, install the necessary dependencies by typing:
+
+    ```
+    npm install
+    ```
+
+4. After the dependencies are installed, you can run the client by typing:
+
+    ```
+    npm start
+    ```
 
 ## Usage
 
-Open a web browser and navigate to `localhost:3000`.
+After you've started the backend server and frontend client, you can access Bizway by opening a web browser and navigating to `localhost:3000`.
 
 ## Contributing
 
